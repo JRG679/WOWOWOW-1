@@ -1,0 +1,25 @@
+h1, h2, h3 {
+    color: #DAA520;
+    text-align: center;
+}
+body {
+    background: url("https://static.vecteezy.com/system/resources/previews/000/112/100/non_2x/free-strass-vector-gold-glitter-texture-on-black-background.jpg");
+    background-size: cover;
+    text-align: center;
+}
+img {
+    width:500px;
+}
+h2 {
+    border: 5px solid #DAA520;
+    font-family: 'Pacifico', cursive;
+}
+h1  {
+    font-family:'Lobster', cursive;
+    border: 10px dotted #DAA520;
+}
+p {
+   color: #DAA520;
+   text-align: center; 
+   font-family: 'Pacifico', cursive;
+}
